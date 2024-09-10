@@ -1,0 +1,4 @@
+{"level":"info","message":"Starting deposit tracker..."}
+{"level":"info","message":"Starting deposit tracker..."}
+{"level":"info","message":"New Deposit Detected:","txHash":"0xd67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d"}
+{"blockNumber":20721326,"blockTimestamp":1725984803,"fee":"7460901872","hash":"0xd67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d","level":"info","message":"Deposit Data:"}
