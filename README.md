@@ -16,10 +16,3 @@ The Ethereum Deposit Tracker monitors and records ETH deposits on the Beacon Dep
 
 - Node.js (version 16 or later)
 - Alchemy/Infura API Key
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/eth-deposit-tracker.git
-   cd eth-deposit-tracker
